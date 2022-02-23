@@ -1,0 +1,9 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Script file='Core.lua' />
+
+    <Script file='Armory.lua' />
+    <Script file='VehicleBar.lua' />
+    <Script file='MiniMapCoords.lua' />
+    <Script file='BlizzardFonts.lua' />
+    <Script file='ElvUIIcons.lua' />
+</Ui>

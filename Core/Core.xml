@@ -1,0 +1,26 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <!-- Functions -->
+    <Script file='Functions.lua' />
+    <Script file='Requirements.lua' />
+
+    <!-- Configs -->
+    <Script file='InternalEnum.lua' />
+    <Script file='InternalString.lua' />
+    <Script file='Internal.lua' />
+    <Script file='Profile.lua' />
+    <Script file='Private.lua' />
+
+    <!-- Core -->
+    <Script file='Core.lua' />
+    <Script file='Dev.lua' />
+    <Script file='DBConvert.lua' />
+
+    <!-- Other Core releated functions -->
+    <Script file='Export.lua' />
+    <Script file='StaticPopups.lua' />
+    <Script file='Commands.lua' />
+    <Script file='Animations.lua' />
+
+    <!-- Changelogs -->
+    <Include file='Changelog\Changelog.xml' />
+</Ui>

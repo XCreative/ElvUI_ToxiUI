@@ -1,0 +1,9 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Script file='Core.lua' />
+
+    <Include file='Themes\Themes.xml' />
+    <Include file='WunderBar\WunderBar.xml' />
+    <Include file='AddOns\AddOns.xml' />
+    <Include file='Plugins\Plugins.xml' />
+    <Include file='Information\Information.xml' />
+</Ui>
