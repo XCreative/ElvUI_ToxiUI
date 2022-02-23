@@ -61,7 +61,7 @@ function TXUI:CheckRequirements(requirements, skipProfile)
             if not self:GetModule("Changelog"):HasRequiredVersion("4.7.0") then return requirement end
 
         elseif (requirement == I.Enum.Requirements.SL_VEHICLE_BAR_DISABLED) then -- 12
-            if F.IsAddOnEnabled("ElvUI_SLE") and E.private.sle and E.private.sle.vehicle.enable then
+            if F.IsAddOnEnabled("ElvUI_SLE") and E.db.sle.actionbar.vehicle.enabled then
                 return requirement
             end
 
