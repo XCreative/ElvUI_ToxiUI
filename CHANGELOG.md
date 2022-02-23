@@ -1,1 +1,3 @@
 - 🚀 RELEASE: 5.3.7  
+- Changelog update  
+- .TOC bump  
