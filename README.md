@@ -1,8 +1,8 @@
 ## Fork from the project [ToxiUI](https://www.tukui.org/addons.php?id=199)
 
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=1i3Rt091wCM">
-        <img src="https://img.youtube.com/vi/1i3Rt091wCM/0.jpg" alt="IMAGE ALT TEXT">
+    <a href="https://www.youtube.com/watch?v=1i3Rt091wCM" target="_blank" rel="noopener noreferrer" >
+        <img src="https://img.youtube.com/vi/1i3Rt091wCM/0.jpg" alt="ToxiUI">
     </a>
     <p>ToxiUI  is a minimalistic edit of ElvUI by Toxi  &  Nawuko!</p>
     <p>It's best played at 1440p resolution!</p>
@@ -48,7 +48,7 @@
 If you're having any problems or just wanna chat with us, please join our  [discord server](https://discord.gg/MP4UuJ7gg4)!
 
 <div align="center">
-    <a href="https://discord.gg/MP4UuJ7gg4">
+    <a href="https://discord.gg/MP4UuJ7gg4" target="_blank" rel="noopener noreferrer" >
         <img src="https://i.imgur.com/IyG1FcN.png?raw=true">
     </a>
     <p>
@@ -59,10 +59,10 @@ If you're having any problems or just wanna chat with us, please join our  [disc
 ##
 
 <div align="center">
-    <a href="https://i.imgur.com/1CtrcG2.jpg" data-lightbox="post-gallery"><img src="https://i.imgur.com/1CtrcG2.jpg" class="post-image" alt="Image" style="max-width:300px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
-    <a href="https://i.imgur.com/8wIbuyP.jpg" data-lightbox="post-gallery"><img src="https://i.imgur.com/8wIbuyP.jpg" class="post-image" alt="Image" style="max-width:300px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
-    <a href="https://i.imgur.com/68DZop4.jpg" data-lightbox="post-gallery"><img src="https://i.imgur.com/68DZop4.jpg" class="post-image" alt="Image" style="max-width:300px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
-    <a href="https://i.imgur.com/QVxNHQu.jpg" data-lightbox="post-gallery"><img src="https://i.imgur.com/QVxNHQu.jpg" class="post-image" alt="Image" style="max-width:300px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
-    <a href="https://i.imgur.com/4c6VO4m.jpg" data-lightbox="post-gallery"><img src="https://i.imgur.com/4c6VO4m.jpg" class="post-image" alt="Image" style="max-width:300px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
-    <a href="https://i.imgur.com/aScS2Wr.jpg" data-lightbox="post-gallery"><img src="https://i.imgur.com/aScS2Wr.jpg" class="post-image" alt="Image" style="max-width:300px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
+    <a href="https://i.imgur.com/1CtrcG2.jpg" target="_blank" rel="noopener noreferrer"  data-lightbox="post-gallery"><img src="https://i.imgur.com/1CtrcG2.jpg" class="post-image" alt="Image" style="max-width:150px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
+    <a href="https://i.imgur.com/8wIbuyP.jpg" target="_blank" rel="noopener noreferrer"  data-lightbox="post-gallery"><img src="https://i.imgur.com/8wIbuyP.jpg" class="post-image" alt="Image" style="max-width:150px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
+    <a href="https://i.imgur.com/68DZop4.jpg" target="_blank" rel="noopener noreferrer" data-lightbox="post-gallery"><img src="https://i.imgur.com/68DZop4.jpg" class="post-image" alt="Image" style="max-width:150px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
+    <a href="https://i.imgur.com/QVxNHQu.jpg" target="_blank" rel="noopener noreferrer" data-lightbox="post-gallery"><img src="https://i.imgur.com/QVxNHQu.jpg" class="post-image" alt="Image" style="max-width:150px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
+    <a href="https://i.imgur.com/4c6VO4m.jpg" target="_blank" rel="noopener noreferrer" data-lightbox="post-gallery"><img src="https://i.imgur.com/4c6VO4m.jpg" class="post-image" alt="Image" style="max-width:150px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
+    <a href="https://i.imgur.com/aScS2Wr.jpg" target="_blank" rel="noopener noreferrer" data-lightbox="post-gallery"><img src="https://i.imgur.com/aScS2Wr.jpg" class="post-image" alt="Image" style="max-width:150px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
 </div>
