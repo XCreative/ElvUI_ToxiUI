@@ -59,10 +59,22 @@ If you're having any problems or just wanna chat with us, please join our  [disc
 ##
 
 <div align="center">
-    <a href="https://i.imgur.com/1CtrcG2.jpg" target="_blank" rel="noopener noreferrer"  data-lightbox="post-gallery"><img src="https://i.imgur.com/1CtrcG2.jpg" class="post-image" alt="Image" style="max-width:150px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
-    <a href="https://i.imgur.com/8wIbuyP.jpg" target="_blank" rel="noopener noreferrer"  data-lightbox="post-gallery"><img src="https://i.imgur.com/8wIbuyP.jpg" class="post-image" alt="Image" style="max-width:150px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
-    <a href="https://i.imgur.com/68DZop4.jpg" target="_blank" rel="noopener noreferrer" data-lightbox="post-gallery"><img src="https://i.imgur.com/68DZop4.jpg" class="post-image" alt="Image" style="max-width:150px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
-    <a href="https://i.imgur.com/QVxNHQu.jpg" target="_blank" rel="noopener noreferrer" data-lightbox="post-gallery"><img src="https://i.imgur.com/QVxNHQu.jpg" class="post-image" alt="Image" style="max-width:150px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
-    <a href="https://i.imgur.com/4c6VO4m.jpg" target="_blank" rel="noopener noreferrer" data-lightbox="post-gallery"><img src="https://i.imgur.com/4c6VO4m.jpg" class="post-image" alt="Image" style="max-width:150px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
-    <a href="https://i.imgur.com/aScS2Wr.jpg" target="_blank" rel="noopener noreferrer" data-lightbox="post-gallery"><img src="https://i.imgur.com/aScS2Wr.jpg" class="post-image" alt="Image" style="max-width:150px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
+    <a href="https://i.imgur.com/1CtrcG2.jpg" target="_blank" rel="noopener noreferrer">
+        <img src="https://i.imgur.com/1CtrcG2.jpg" style="max-width:150px">
+    </a>
+    <a href="https://i.imgur.com/8wIbuyP.jpg" target="_blank" rel="noopener noreferrer">
+        <img src="https://i.imgur.com/8wIbuyP.jpg" style="max-width:150px">
+    </a>
+    <a href="https://i.imgur.com/68DZop4.jpg" target="_blank" rel="noopener noreferrer">
+        <img src="https://i.imgur.com/68DZop4.jpg" style="max-width:150px">
+    </a>
+    <a href="https://i.imgur.com/QVxNHQu.jpg" target="_blank" rel="noopener noreferrer">
+        <img src="https://i.imgur.com/QVxNHQu.jpg" style="max-width:150px">
+    </a>
+    <a href="https://i.imgur.com/4c6VO4m.jpg" target="_blank" rel="noopener noreferrer">
+        <img src="https://i.imgur.com/4c6VO4m.jpg" style="max-width:150px">
+    </a>
+    <a href="https://i.imgur.com/aScS2Wr.jpg" target="_blank" rel="noopener noreferrer">
+        <img src="https://i.imgur.com/aScS2Wr.jpg" style="max-width:150px">
+    </a>
 </div>
