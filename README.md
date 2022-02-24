@@ -55,3 +55,14 @@ If you're having any problems or just wanna chat with us, please join our  [disc
         <img src="https://img.shields.io/discord/769550106948141086?label=ToxiUI%20Discord&style=flat-square"/>
     </p>
 </div>
+
+##
+
+<div align="center">
+    <a href="https://i.imgur.com/1CtrcG2.jpg" data-lightbox="post-gallery"><img src="https://i.imgur.com/1CtrcG2.jpg" class="post-image" alt="Image" style="max-width:300px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
+    <a href="https://i.imgur.com/8wIbuyP.jpg" data-lightbox="post-gallery"><img src="https://i.imgur.com/8wIbuyP.jpg" class="post-image" alt="Image" style="max-width:300px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
+    <a href="https://i.imgur.com/68DZop4.jpg" data-lightbox="post-gallery"><img src="https://i.imgur.com/68DZop4.jpg" class="post-image" alt="Image" style="max-width:300px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
+    <a href="https://i.imgur.com/QVxNHQu.jpg" data-lightbox="post-gallery"><img src="https://i.imgur.com/QVxNHQu.jpg" class="post-image" alt="Image" style="max-width:300px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
+    <a href="https://i.imgur.com/4c6VO4m.jpg" data-lightbox="post-gallery"><img src="https://i.imgur.com/4c6VO4m.jpg" class="post-image" alt="Image" style="max-width:300px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
+    <a href="https://i.imgur.com/aScS2Wr.jpg" data-lightbox="post-gallery"><img src="https://i.imgur.com/aScS2Wr.jpg" class="post-image" alt="Image" style="max-width:300px;transition:border-color 0.1s ease-out;cursor:pointer"></a>
+</div>
