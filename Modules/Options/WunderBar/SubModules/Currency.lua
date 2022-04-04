@@ -20,7 +20,7 @@ function O:WunderBar_SubModules_Currency()
     end
 
     local goldDisabled = function()
-        return not (E.db.TXUI.wunderbar.subModules[dbEntry].displayedCurrency == "GOLD")
+        return E.db.TXUI.wunderbar.subModules[dbEntry].displayedCurrency ~= "GOLD"
     end
 
     -- General

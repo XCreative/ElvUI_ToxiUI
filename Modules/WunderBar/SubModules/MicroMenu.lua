@@ -502,7 +502,7 @@ function MM:PositionButtons()
             local point = (i == 1) and anchorPoint or growPoint
             local padding = (i == 1) and 0 or (self.db.general.iconFontSize + self.db.general.iconSpacing)
             padding = growPoint == "LEFT" and -padding or padding
-            if not (frame.info.special == true) then currentWidth = currentWidth + abs(padding) end
+            if frame.info.special ~= true then currentWidth = currentWidth + abs(padding) end
 
             frame:ClearAllPoints()
 

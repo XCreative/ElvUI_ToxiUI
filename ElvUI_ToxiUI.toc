@@ -1,7 +1,7 @@
 ## Interface: 90200
 ## Title: |cff1784d1ElvUI|r |cffffffffToxi|r|cff00e4f5UI|r
 ## Author: Toxi (Toxicom#2957)
-## Version: 5.3.7
+## Version: 5.3.8
 ## Notes: Minimalistic ElvUI Edit by |cff00e4f5Toxi|r
 ## RequiredDeps: ElvUI, ElvUI_WindTools
 ## OptionalDeps: Details, Plater
@@ -10,7 +10,7 @@
 ## X-Tukui-ProjectFolders: ElvUI_ToxiUI
 ## X-ElvUIVersion: 12.65
 ## X-Wago-ID: XrNk5lKa
-## X-GitHash: v5.3.7
+## X-GitHash: v5.3.8
 
 Libraries\Libraries.xml
 Initialize.lua

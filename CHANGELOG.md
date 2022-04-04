@@ -1,3 +1,2 @@
-- 🚀 RELEASE: 5.3.7  
-- Changelog update  
-- .TOC bump  
+- Update code for new LuaCheck rules  
+- 5.3.8 Add Broker Translocation Matrix hearthstone  
