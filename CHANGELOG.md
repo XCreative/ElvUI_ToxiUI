@@ -1,2 +1,2 @@
-- Update code for new LuaCheck rules  
-- 5.3.8 Add Broker Translocation Matrix hearthstone  
+- 5.3.9 Changelog & TOC bump  
+- 5.3.9 Fix `Broker Translocation Matrix` ID & type  
