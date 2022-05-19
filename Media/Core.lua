@@ -92,6 +92,7 @@ F.AddMedia("theme", "ShadowInnerSmall")
 F.AddMedia("logo", "Discord")
 F.AddMedia("logo", "Logo")
 F.AddMedia("logo", "LogoSmall")
+F.AddMedia("logo", "Youtube")
 
 -- -----
 --   ARMORY BACKGROUNDS

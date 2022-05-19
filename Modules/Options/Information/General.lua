@@ -141,6 +141,30 @@ function O:General()
                 image = function()
                     return I.Media.Logos.Discord, 256, 64
                 end
+            },
+
+            -- Spacer
+            ["generalContactSpacer2"] = { order = self:GetOrder(), type = "description", name = " " },
+
+            -- YouTube URL
+            ["generalContactYoutube"] = {
+                order = self:GetOrder(),
+                type = "input",
+                width = "full",
+                name = "Toxi's YouTube channel:",
+                get = function()
+                    return TXUI.Links.YoutubeToxi
+                end
+            },
+
+            -- Youtube Logo
+            ["generalContactYoutubeIcon"] = {
+                order = self:GetOrder(),
+                type = "description",
+                name = "",
+                image = function()
+                    return I.Media.Logos.Youtube, 256, 64
+                end
             }
         }
     }

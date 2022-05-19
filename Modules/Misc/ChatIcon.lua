@@ -116,7 +116,6 @@ function M:ChatIcon()
 
         -- Hook WindTools
         if (ct) and (ct.db) then
-            self:RawHook(ct, "HandleName", "ChatIcon_HandleName")
             self:RawHook(ct, "UpdateRoleIcons", "ChatIcon_UpdateRoleIcons")
 
             self:ChatIcon_ForceUpdate()

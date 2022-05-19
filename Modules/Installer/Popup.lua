@@ -23,5 +23,9 @@ function IS:PopupWALink()
     end
 
     -- Show Popup
-    E:StaticPopup_Show("TXUI_WALinkDisplay", nil, nil, TXUI.Links.WALink)
+    if TXUI.WALinks[E.myclass] ~= nil then
+        E:StaticPopup_Show("TXUI_WALinkDisplay", nil, nil, TXUI.WALinks[E.myclass])
+    else
+        E:StaticPopup_Show("TXUI_WALinkDisplay", nil, nil, TXUI.Links.WALink)
+    end
 end

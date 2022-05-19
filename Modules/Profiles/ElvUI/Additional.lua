@@ -9,7 +9,9 @@ function PF:ElvUIAdditional()
         E.db["movers"]["WTMinimapButtonBarAnchor"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-238,-4"
         E.db["WT"]["announcement"]["goodbye"]["enable"] = false
         E.db["WT"]["announcement"]["interrupt"]["enable"] = false
-        E.db["WT"]["announcement"]["thanksForResurrection"]["enable"] = false
+        E.db["WT"]["announcement"]["thanks"]["enable"] = false
+        E.db["WT"]["announcement"]["thanks"]["enhancement"] = false
+        E.db["WT"]["announcement"]["thanks"]["resurrection"] = false
         E.db["WT"]["announcement"]["utility"]["enable"] = false
         E.db["WT"]["combat"]["combatAlert"]["enable"] = false
         E.db["WT"]["combat"]["raidMarkers"]["enable"] = true

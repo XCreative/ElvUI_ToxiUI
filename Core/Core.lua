@@ -12,9 +12,23 @@ TXUI.Title = "|cffffffffToxi|r|cff00e4f5UI|r"
 TXUI.ReleaseVersion = 0 -- for internal tracking, this is populated inside the changelog module
 TXUI.Changelog = {}
 TXUI.Links = {
-    ["DiscordToxi"] = "https://discord.gg/T7J4mNv",
+    ["DiscordToxi"] = "https://discord.gg/r85TGUU7zA",
     ["WALink"] = "https://luxthos.com",
-    ["SkinIcons"] = "https://wago.io/IconSkins"
+    ["YoutubeToxi"] = "https://www.youtube.com/channel/UCHJmprM_gp9RnpFloB5HICg",
+}
+TXUI.WALinks = {
+    ["WARRIOR"] = "https://www.luxthos.com/warrior-weakauras-for-world-of-warcraft-shadowlands/",
+    ["HUNTER"] = "https://www.luxthos.com/hunter-weakauras-for-world-of-warcraft-shadowlands/",
+    ["MAGE"] = "https://www.luxthos.com/mage-weakauras-for-world-of-warcraft-shadowlands/",
+    ["ROGUE"] = "https://www.luxthos.com/rogue-weakauras-for-world-of-warcraft-shadowlands/",
+    ["PRIEST"] = "https://www.luxthos.com/priest-weakauras-for-world-of-warcraft-shadowlands/",
+    ["WARLOCK"] = "https://www.luxthos.com/warlock-weakauras-for-world-of-warcraft-shadowlands/",
+    ["PALADIN"] = "https://www.luxthos.com/paladin-weakauras-for-world-of-warcraft-shadowlands/",
+    ["DRUID"] = "https://www.luxthos.com/druid-weakauras-for-world-of-warcraft-shadowlands/",
+    ["SHAMAN"] = "https://www.luxthos.com/shaman-weakauras-for-world-of-warcraft-shadowlands/",
+    ["MONK"] = "https://www.luxthos.com/monk-weakauras-for-world-of-warcraft-shadowlands/",
+    ["DEMONHUNTER"] = "https://www.luxthos.com/demon-hunter-weakauras-for-world-of-warcraft-shadowlands/",
+    ["DEATHKNIGHT"] = "https://www.luxthos.com/death-knight-weakauras-for-world-of-warcraft-shadowlands/",
 }
 
 -- Modules
