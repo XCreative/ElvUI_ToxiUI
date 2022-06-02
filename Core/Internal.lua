@@ -367,6 +367,7 @@ I.HearthstoneData = {
     [312372] = { ["type"] = "spell", ["hearthstone"] = false }, -- Return to Camp (Vulpera Racial)
     [324547] = { ["type"] = "spell", ["hearthstone"] = false }, -- Hearth Kidneystone (Necrolord Soulbind)
     [190237] = { ["type"] = "toy", ["hearthstone"] = true }, -- Broker Translocation Matrix
+    [188952] = { ["type"] = "toy", ["hearthstone"] = true }, -- Dominated Hearthstone
 
     -- Mage specific
     [193759] = { ["type"] = "spell", ["hearthstone"] = false, ["teleport"] = true }, -- Teleport: Hall of the Guardian
