@@ -1,13 +1,1 @@
-- 5.4.1 Fix WindTools thanksForRessurection error  
-- Merge branch 'stable' into development  
-- 5.3.8 Update discord link & remove SkinIcons link  
-- 🚀 RELEASE: 5.3.7  
-- Changelog update  
-- .TOC bump  
-- 🚀 RELEASE: 5.3.6  
-- 🐛 FIX: Experimental Theme potential fix  
-- 🚀 RELEASE: 5.3.5  
-- 🚀 RELEASE: 5.3.4  
-- 🐛 FIX: ToxiUIWAAnchor  
-- 🚀 RELEASE: 5.3.3  
-- 📖 DOC: Raise ElvUI dep. for ver. compatibility  
+- 5.4.3 New version cus toxi is dumb af  
